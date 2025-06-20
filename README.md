@@ -22,3 +22,12 @@ It autonomously detects data discrepancies and rectifies them, while also genera
 AIOPS Autonomous Marketing uses AI and machine learning to cut down on labour intensive analysis accelerating campaign close with fewer touchpoints and greater precision.
 
 The solution automates data monitoring, synchronisation across systems, and the creation and validation of marketing master data. It intelligently identifies, generates and corrects data issues in real time, ensuring accuracy while streamlining operations. By removing repetitive tasks, it frees up your team to focus on strategy, not spreadsheets.
+
+
+## Autonomous Due Diligence
+**AIOPS Autonomous Due Diligence**: Streamline decision-making with a suite of integrated microsolutions that reduce manual workload, improve data integrity, and accelerate insight—delivering more accurate outcomes in less time.
+
+### What is Autonomous Due Diligence?
+AIOPS Autonomous Due Diligence harnesses AI and machine learning to simplify complex review processes—cutting down on labour-intensive tasks and enabling faster, more reliable evaluations across risk, compliance, and performance metrics.
+
+The solution automates data collection, validation, and cross-system reconciliation. It identifies, corrects, and enhances key data sets in real time, ensuring accuracy and consistency across documentation, disclosures, and reporting frameworks. By removing repetitive admin, it empowers your team to focus on critical analysis and high-value decisions.
