@@ -1,4 +1,4 @@
 # AI that works for you
-Advanced Analytica’s AIOPS is a modular AI-Integrated Operations System that offers a growing suite of subscription-based microsolutions. Each solution is designed to integrate seamlessly with existing systems, supporting a broad range of industries and enterprise resource planning (ERP) functions.
+**Advanced Analytica’s AIOPS** is an agentic AI operations system offering a growing suite of subscription-based microsolutions. Each is designed to integrate seamlessly with existing systems, supporting a wide range of industries and ERP functions.
 
-Built to reflect human decision-making, each microsolution operates within your organisation’s unique rules and workflows. The result is scalable, self-optimising automation that reduces manual effort while keeping you firmly in control of your processes.
+Built to mirror human decision-making, every microsolution adapts to your organisation’s unique rules and workflows. The result? Scalable, self-optimising automation that cuts manual effort—while keeping you firmly in control..
