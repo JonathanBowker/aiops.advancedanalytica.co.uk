@@ -10,7 +10,7 @@ Built to mirror human decision-making, every microsolution adapts to your organi
 
 #### What is Autonomous Data Operations?
 
-AIOPS Autonomous Data Operations streamlines information management by utilising machine learning (ML) and artificial intelligence (AI)-driven microsolutions.
+AIOPS Autonomous Data Operations streamlines information management using machine learning (ML) and artificial intelligence (AI)-driven microsolutions.
 
 It autonomously detects data discrepancies and rectifies them, while also generating new accurate data based on detected patterns. The solution leverages AI-powered data healing to predict trends and provide actionable insights, empowering end users to make informed decisions.
 
