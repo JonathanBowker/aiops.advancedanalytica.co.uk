@@ -6,7 +6,7 @@ Built to mirror human decision-making, every microsolution adapts to your organi
 # Microsolutions for macro efficiencies
 
 ## Agentic Data Operations
-**AIOPS Agentic Data Operations**: Streamlining information management through the power of ML and Generative AI. A suite of integrated microsolutions streamlining information management and improving data accuracy and quality.
+**AIOPS Agentic Data Operations** - Streamlining information management through the power of ML and Generative AI. A suite of integrated microsolutions streamlining information management and improving data accuracy and quality.
 
 #### What is Agentic Data Operations?
 
@@ -16,7 +16,7 @@ It Agenticly detects data discrepancies and rectifies them, while also generatin
 
 
 ## Agentic Marketing
-**AIOPS Agentic Marketing**: Experience an accelerated, more touchless brand marketing experiences. A suite of integrated microsolutions enabling enterprises to enhance decision-making processes, achieving greater efficiencies in real time.
+**AIOPS Agentic Marketing** - Experience an accelerated, more touchless brand marketing experiences. A suite of integrated microsolutions enabling enterprises to enhance decision-making processes, achieving greater efficiencies in real time.
 
 ### What is Agentic Marketing?
 AIOPS Agentic Marketing uses AI and machine learning to cut down on labour intensive analysis accelerating campaign close with fewer touchpoints and greater precision.
@@ -25,7 +25,7 @@ The solution automates data monitoring, synchronisation across systems, and the 
 
 
 ## Agentic Due Diligence
-**AIOPS Agentic Due Diligence**: Streamline decision-making with a suite of integrated microsolutions that reduce manual workload, improve data integrity, and accelerate insight—delivering more accurate outcomes in less time.
+**AIOPS Agentic Due Diligence** - Streamline decision-making with a suite of integrated microsolutions that reduce manual workload, improve data integrity, and accelerate insight—delivering more accurate outcomes in less time.
 
 ### What is Agentic Due Diligence?
 AIOPS Agentic Due Diligence harnesses AI and machine learning to simplify complex review processes—cutting down on labour-intensive tasks and enabling faster, more reliable evaluations across risk, compliance, and performance metrics.
