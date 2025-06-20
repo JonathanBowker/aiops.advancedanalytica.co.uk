@@ -6,7 +6,7 @@ Built to mirror human decision-making, every microsolution adapts to your organi
 # Microsolutions for macro efficiencies
 
 ## Autonomous Data Operations
-AIOPS Autonomous Data Operations: Streamlining information management through the power of ML and Generative AI. A suite of integrated microsolutions streamlining information management and improving data accuracy and quality.
+**AIOPS Autonomous Data Operations**: Streamlining information management through the power of ML and Generative AI. A suite of integrated microsolutions streamlining information management and improving data accuracy and quality.
 
 #### What is Autonomous Data Operations?
 
@@ -16,7 +16,7 @@ It autonomously detects data discrepancies and rectifies them, while also genera
 
 
 ## Autonomous Marketing
-AIOPS Autonomous Marketing: Experience an accelerated, more touchless brand marketing experiences. A suite of integrated microsolutions enabling enterprises to enhance decision-making processes, achieving greater efficiencies in real time.
+**AIOPS Autonomous Marketing**: Experience an accelerated, more touchless brand marketing experiences. A suite of integrated microsolutions enabling enterprises to enhance decision-making processes, achieving greater efficiencies in real time.
 
 ### What is Autonomous Marketing?
 AIOPS Autonomous Marketing uses AI and machine learning to cut down on labour intensive analysis accelerating campaign close with fewer touchpoints and greater precision.
