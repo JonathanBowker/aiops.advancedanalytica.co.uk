@@ -1,9 +1,9 @@
-site_name: AIOS – Agentic AI Operations System
-site_description: Advanced Analytica’s AIOS is a modular, agentic operations platform designed to orchestrate intelligent business automation through AI-driven microsolutions.
-site_author: Jonathan Bowker
-site_url: https://aios.advancedanalytica.co.uk
-repo_url: https://github.com/JonathanBowker/aios.advancedanalytica.co.uk
-repo_name: JonathanBowker/aios.advancedanalytica.co.uk
+site_name: AIOPS – Agentic AI Operations System
+site_description: Advanced Analytica’s AIOPS is a modular, agentic operations platform designed to orchestrate intelligent business automation through AI-driven microsolutions.
+site_author: Jonathan BowkerAIOPS
+site_url: https://aiops.advancedanalytica.co.uk
+repo_url: https://github.com/JonathanBowker/aiops.advancedanalytica.co.uk
+repo_name: JonathanBowker/aiops.advancedanalytica.co.uk
 
 theme:
   name: material
@@ -69,12 +69,12 @@ extra:
     og_title: The Conversation Marketing and Answer Engine Optimisation Handbook
     og_description: Discover why successful brands are shifting from broadcast to real-time dialogue — and how to stay visible in an AI-first, answer-driven world.
     og_type: article
-    og_url: https://aios.advancedanalytica.co.uk
-    og_image: https://aois.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
+    og_url: https://aiops.advancedanalytica.co.uk
+    og_image: https://aiops.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
     twitter_card: summary_large_image
     twitter_title: Why Conversation Marketing & AEO Are the Future
     twitter_description: Learn how modern brands are using AI and answer engine optimisation (AEO) to build trust and drive relevance in a post-search landscape.
-    twitter_image: https://aois.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
+    twitter_image: https://aiops.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
   custom_cta: true
 
 extra_css:

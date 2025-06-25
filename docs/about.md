@@ -19,19 +19,19 @@ author: Advanced Analytica
 og_title: Advanced Analytica – Build Smarter Systems with Agentic AI
 og_description: Explore AI-powered microsolutions and intelligent systems designed to scale with your brand. From governance to structured data, we deliver clarity, control, and value.
 og_type: website
-og_url: https://aeo.advancedanalytica.co.uk/about
-og_image: https://aeo.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
+og_url: https://aiops.advancedanalytica.co.uk/about
+og_image: https://aiops.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
 
 # Twitter Card metadata
 twitter_card: summary_large_image
 twitter_title: Advanced Analytica – AI-First Solutions for the Modern Enterprise
 twitter_description: Design and deploy intelligent systems with confidence. Our agentic AI, synthetic personas, and knowledge engineering frameworks deliver results at scale.
-twitter_image: https://aeo.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
+twitter_image: https://aiops.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
 ---
 
 # About Advanced Analytica
 
-<img src="https://aeo.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp" alt="Conversation Marketing Handbook Cover" style="width: 100%; max-width: 1000px; display: block; margin: 2rem auto;" />
+<img src="https://aiops.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp" alt="Conversation Marketing Handbook Cover" style="width: 100%; max-width: 1000px; display: block; margin: 2rem auto;" />
 
 <span style="font-size: 1.5em; font-weight: 450;">
   Make AI work for your brand
