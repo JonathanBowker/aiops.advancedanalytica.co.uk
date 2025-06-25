@@ -1,0 +1,140 @@
+site_name: AIOS – Agentic AI Operations System
+site_description: Advanced Analytica’s AIOS is a modular, agentic operations platform designed to orchestrate intelligent business automation through AI-driven microsolutions.
+site_author: Jonathan Bowker
+site_url: https://aios.advancedanalytica.co.uk
+repo_url: https://github.com/JonathanBowker/aios.advancedanalytica.co.uk
+repo_name: JonathanBowker/aios.advancedanalytica.co.uk
+
+theme:
+  name: material
+  custom_dir: overrides
+  logo: assets/logos/1x/advanced-analytica-logo.webp
+  favicon: assets/images/favicon.svg
+  announcement:
+    type: info  # options: info, warning, error, success
+    text: |
+      <strong>Request An AI Visibility Review</strong>:
+      <a href="https://yourrequestform.com" style="color:#fff; text-decoration:underline;">
+        Click here to request your free AI visibility review
+      </a>.
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - content.code.copy
+    - content.headings.anchor
+    - header.autohide
+  language: en
+
+plugins:
+  - search
+  - tags
+  - copy-well-known
+
+extra:
+  static_dirs:
+    - bdv-terms/data
+  include:
+    - data/brando-schema.json
+  meta_defaults:
+    title: Conversation Marketing Handbook
+    description: Learn how marketing is evolving from monologue to dialogue. Explore how AI, real-time engagement, and Answer Engine Optimisation (AEO) are reshaping brand visibility and customer trust.
+    keywords:
+      - conversation marketing
+      - AI in marketing
+      - answer engine optimisation
+      - answer engine visibility
+      - AEO
+      - AIV
+      - customer dialogue
+      - omnichannel marketing
+      - chatbot strategy
+      - structured brand content
+      - generative AI
+      - Brando BDV
+    author: Advanced Analytica
+    og_title: The Conversation Marketing and Answer Engine Optimisation Handbook
+    og_description: Discover why successful brands are shifting from broadcast to real-time dialogue — and how to stay visible in an AI-first, answer-driven world.
+    og_type: article
+    og_url: https://aios.advancedanalytica.co.uk
+    og_image: https://aois.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
+    twitter_card: summary_large_image
+    twitter_title: Why Conversation Marketing & AEO Are the Future
+    twitter_description: Learn how modern brands are using AI and answer engine optimisation (AEO) to build trust and drive relevance in a post-search landscape.
+    twitter_image: https://aois.advancedanalytica.co.uk/assets/images/2x/conversation-marketing-handbook@2x.webp
+  custom_cta: true
+
+extra_css:
+  - css/custom.css
+  - css/styles.css
+
+extra_javascript:
+  - js/smooth-scroll.js
+  - https://d3js.org/d3.v7.min.js
+  - js/linked_map.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.tasklist
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tilde
+  - pymdownx.magiclink
+  - pymdownx.inlinehilite
+  - pymdownx.extra
+
+nav:
+  - Homepage: index.md
+  - Old vs New: old-vs-new.md
+  - Why Now?: why-now.md
+  - The Core Philosophy: core-philosophy.md
+  - How to Use This Book: how-to-use.md
+
+  - "Part 1: The Foundational Rules – Strategy & Principles":
+      - "Rule #1: From Monologue to Dialogue": part1/rule-1-monologue-to-dialogue.md
+      - "Rule #2: Know Your Audience with AI-Powered Personas": part1/rule-2-ai-personas.md
+      - "Rule #3: Define Your Conversational Purpose": part1/rule-3-purpose.md
+      - "Rule #4: Be Where the Conversation Is": part1/rule-4-channels.md
+
+  - "Part 2: The Playbook – Design & Implementation":
+      - Designing Intuitive Conversation Flows: part2/conversation-flows.md
+      - "Fueling Your Engine: Content for Conversation": part2/content-for-conversation.md
+      - "The Tech Stack: Tools of the Modern Marketer": part2/tech-stack.md
+      - Launching Your Conversational Engine: part2/launching.md
+
+  - "Part 3: Advanced Applications & Growth":
+      - "The Proactive Play: Initiating a Valuable Dialogue": part3/proactive-dialogue.md
+      - Brand Dialogue Engineering: part3/brand-dialogue-engineering.md
+      - Mastering Conversational Advertising: part3/conversational-advertising.md
+      - "Conversational Sales: From Lead to Loyal Customer": part3/conversational-sales.md
+
+  - "Part 4: The Rules of Measurement & The Future":
+      - "The New ROI: Measuring What Matters": part4/new-roi.md
+      - The Rule of Continuous Improvement: part4/continuous-improvement.md
+      - "The Future Rules: What's Next on the Horizon": part4/future-rules.md
+  - Best Practice Guide: best-practice.md
+  - Conclusion: conclusion.md
+
+  - Appendix:
+      - Glossary: appendix/glossary.md
+      - Resource Guide: appendix/resources.md
+      - Conversation Flow Template: appendix/conversation-template.md
+      - Conversation Engine Checklist: appendix/checklist.md
+
+  - About Us:
+      - Advanced Analytica: about.md
+      - Terms of Service: terms-of-service.md
